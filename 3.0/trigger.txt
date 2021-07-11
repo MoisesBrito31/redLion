@@ -1,0 +1,2 @@
+P4OR_IO.IT:BITS=0
+P4.Trigger.Trigger

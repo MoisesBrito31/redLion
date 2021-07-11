@@ -1,0 +1,14 @@
+ptv.400010:BITS=0
+DemoNativo.TankChoice
+ptv.400011:BITS=0
+DemoNativo.Novo.MY1
+ptv.400012:BITS=0
+DemoNativo.Novo.MY2
+ptv.400013:BITS=0
+DemoNativo.Novo.MY3
+ptv.400014:BITS=0
+DemoNativo.Novo.MR1
+ptv.400015:BITS=0
+DemoNativo.Novo.ZX1
+ptv.400016:BITS=0
+DemoNativo.Novo.NJ1

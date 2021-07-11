@@ -1,0 +1,14 @@
+ptv.400001:BITS=0
+DemoNativo.Novo.Produção
+ptv.400002:BITS=0
+DemoNativo.Novo.Aprovados
+ptv.400003:BITS=0
+DemoNativo.Novo.Rejeito
+ptv.400004:BITS=0
+DemoNativo.Novo.Velocidade
+ptv.400005:BITS=0
+DemoNativo.Novo.Status
+ptv.400006:BITS=0
+DemoNativo.Novo.time_produzindo
+ptv.400007:BITS=0
+DemoNativo.Novo.Parado_Total
